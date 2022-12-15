@@ -1,6 +1,7 @@
 # my-calculator
 This app is set up to test using a callable library module hosted in a GitHub repo.  
-https://github.com/cunningc/my-calculator.git  
+git@github.com:ccogd/ogdlib-my-calculator.git
+
 - There are currently 4 releases in the repo to test the ability to update an app like this one to be updated to use new releases when they are published.
 - Note that the repo is a private repo under cunningc and may not work without authentication
 
